@@ -1,4 +1,4 @@
 'use strict'
 module.exports={
-    outputDir: 'mydist',
+    outputDir: 'mydist'
 }
